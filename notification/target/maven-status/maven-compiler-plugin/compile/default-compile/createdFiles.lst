@@ -1,0 +1,6 @@
+com/mmario/notification/NotificationRepository.class
+com/mmario/notification/NotificationController.class
+com/mmario/notification/NotificationService.class
+com/mmario/notification/Notification.class
+com/mmario/notification/Notification$NotificationBuilder.class
+com/mmario/notification/NotificationApplication.class

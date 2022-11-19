@@ -1,0 +1,6 @@
+com/mmario/fraud/FraudCheckHistoryService.class
+com/mmario/fraud/FraudCheckHistoryController.class
+com/mmario/fraud/FraudApplication.class
+com/mmario/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/mmario/fraud/FraudCheckHistory.class
+com/mmario/fraud/FraudCheckHistoryRepository.class

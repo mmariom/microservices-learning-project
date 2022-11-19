@@ -1,0 +1,8 @@
+com/mmario/customer/CustomerRepository.class
+com/mmario/customer/CustomerController.class
+com/mmario/customer/CustomerConfig.class
+com/mmario/customer/CustomerApplication.class
+com/mmario/customer/Customer$CustomerBuilder.class
+com/mmario/customer/CustomerRegistrationRequest.class
+com/mmario/customer/CustomerService.class
+com/mmario/customer/Customer.class
